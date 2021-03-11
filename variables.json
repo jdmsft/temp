@@ -30,7 +30,7 @@
         "Encrypted": false
     },
     {
-        "Name": "PowerManager_CertificateName",
+        "Name": "PowerManager_AutomationConnectionName",
         "DefaultValue": null,
         "Encrypted": false
     }
