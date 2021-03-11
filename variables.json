@@ -1,0 +1,37 @@
+[
+    {
+        "Name": "PowerManager_ExcludeVM",
+        "DefaultValue": false,
+        "Encrypted": false
+    },
+    {
+        "Name": "PowerManager_ExcludeAppService",
+        "DefaultValue": false,
+        "Encrypted": false
+    },
+    {
+        "Name": "PowerManager_ExcludeAKS",
+        "DefaultValue": false,
+        "Encrypted": false
+    },
+    {
+        "Name": "PowerManager_ExcludeADX",
+        "DefaultValue": false,
+        "Encrypted": false
+    },
+    {
+        "Name": "PowerManager_LogAnalyticsId",
+        "DefaultValue": null,
+        "Encrypted": false
+    },
+    {
+        "Name": "PowerManager_KeyVaultName",
+        "DefaultValue": null,
+        "Encrypted": false
+    },
+    {
+        "Name": "PowerManager_CertificateName",
+        "DefaultValue": "AzurePowerManagerCert",
+        "Encrypted": false
+    }
+]

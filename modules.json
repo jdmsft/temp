@@ -1,0 +1,18 @@
+[
+    {
+        "Name": "Az.Accounts",
+        "Version": "2.2.6"
+    },
+    {
+        "Name": "Az.Automation",
+        "Version": "1.5.0"
+    },
+    {
+        "Name": "Az.ResourceGraph",
+        "Version": "0.8.0"
+    },
+    {
+        "Name": "MSAL.PS",
+        "Version": "4.21.0.1"
+    }
+]
