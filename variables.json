@@ -33,5 +33,10 @@
         "Name": "PowerManager_ConnectionName",
         "DefaultValue": null,
         "Encrypted": false
+    },
+    {
+        "Name": "PowerManager_CertificateName",
+        "DefaultValue": null,
+        "Encrypted": false
     }
 ]
