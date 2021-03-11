@@ -30,7 +30,7 @@
         "Encrypted": false
     },
     {
-        "Name": "PowerManager_AutomationConnectionName",
+        "Name": "PowerManager_ConnectionName",
         "DefaultValue": null,
         "Encrypted": false
     }
