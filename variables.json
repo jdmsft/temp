@@ -31,7 +31,7 @@
     },
     {
         "Name": "PowerManager_CertificateName",
-        "DefaultValue": "AzurePowerManagerCert",
+        "DefaultValue": null,
         "Encrypted": false
     }
 ]
