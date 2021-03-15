@@ -12,7 +12,11 @@
         "Version": "0.8.0"
     },
     {
-        "Name": "MSAL.PS",
-        "Version": "4.21.0.1"
+        "Name": "Az.PowerManager",
+        "Version": "1.0.0"
+    },
+    {
+        "Name": "Az.LogAnalytics",
+        "Version": "1.0.0"
     }
 ]
