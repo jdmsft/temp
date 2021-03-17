@@ -18,10 +18,5 @@
         "Name": "Az.LogAnalytics",
         "Version": "1.0.0",
         "RequiredBy": "Runbook"
-    },
-        {
-        "Name": "Az.ResourceGraph",
-        "Version": "0.8.0",
-        "RequiredBy": "Module"
     }
 ]
