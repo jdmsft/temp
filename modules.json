@@ -14,5 +14,9 @@
     {
         "Name": "Az.LogAnalytics",
         "Version": "1.0.0"
+    },
+    {
+        "Name": "Az.ResourceGraph",
+        "Version": "0.8.0"
     }
 ]
