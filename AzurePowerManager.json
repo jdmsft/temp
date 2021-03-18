@@ -1,0 +1,37 @@
+{
+    "runbook": "AzurePowerManager",
+    "version": "1.0.0-alpha",
+    "author": "Jessy Desloges",
+    "modules": [
+        {
+            "name": "Az.Accounts",
+            "version": "2.2.6",
+            "requiredBy": "Runbook"
+        },
+        {
+            "name": "Az.Automation",
+            "version": "1.5.0",
+            "requiredBy": "Runbook"
+        },
+        {
+            "name": "Az.PowerManager",
+            "version": "1.0.0",
+            "requiredBy": "Runbook"
+        },
+        {
+            "name": "Az.LogAnalytics",
+            "version": "1.0.0",
+            "requiredBy": "Runbook"
+        },
+        {
+            "name": "Az.ResourceGraph",
+            "version": "0.8.0",
+            "requiredBy": "Az.PowerManager"
+        },
+        {
+            "name": "PSDependencies",
+            "version": "2.0.0",
+            "requiredBy": "Az.PowerManager"
+        }
+    ]
+}
