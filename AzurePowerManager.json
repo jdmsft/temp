@@ -15,12 +15,12 @@
         },
         {
             "name": "Az.PowerManager",
-            "version": "1.0.0",
+            "version": "1.0.0-alpha",
             "requiredBy": "Runbook"
         },
         {
             "name": "Az.LogAnalytics",
-            "version": "1.0.0",
+            "version": "1.0.0-alpha",
             "requiredBy": "Runbook"
         },
         {
@@ -29,7 +29,7 @@
             "requiredBy": "Az.PowerManager"
         },
         {
-            "name": "PSDependencies",
+            "name": "PSRequiredModules",
             "version": "2.0.0",
             "requiredBy": "Az.PowerManager"
         }
