@@ -15,12 +15,12 @@
         },
         {
             "name": "Az.PowerManager",
-            "version": "1.1.0-alpha",
+            "version": "1.0.0-alpha",
             "requiredBy": "Runbook"
         },
         {
             "name": "Az.LogAnalytics",
-            "version": "1.0.0-alpha",
+            "version": "1.1.0-alpha",
             "requiredBy": "Runbook"
         },
         {
