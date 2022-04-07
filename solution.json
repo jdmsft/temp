@@ -9,6 +9,6 @@
     "customMessage": {
         "type": "warning",
         "content": "BREAKING CHANGE: An important update is on track! See this for more information.",
-        "scope": "earlierVersion"
+        "scope": "all"
     }
 }
