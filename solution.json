@@ -8,7 +8,7 @@
     },
     "customMessage": {
         "type": "warning",
-        "content": "An important issue was detected in this version, please uptate!",
+        "content": "BREAKING CHANGE: An important update is on track! See this for more information.",
         "scope": "earlierVersion"
     }
 }
