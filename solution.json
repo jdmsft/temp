@@ -8,6 +8,6 @@
     "customMessage": {
         "type": "warning",
         "content": "NEWS: MyCustomMessage",
-        "scope": "earlierVersion"
+        "scope": "all"
     }
 }
