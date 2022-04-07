@@ -1,0 +1,13 @@
+{
+    "$schema": "https://raw.githubusercontent.com/jdmsft/schema/main/solution/2022-04-07",
+    "solution": {
+        "name":"Solution Name",
+        "uri": "https://github.com/jdmsft/temp",
+        "version": "4.0.0"
+    },
+    "customMessage": {
+        "type": "warning",
+        "content": "MyCustomMessage",
+        "scope": "all"
+    }
+}
