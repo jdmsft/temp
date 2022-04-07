@@ -4,5 +4,10 @@
         "name":"Solution Name",
         "uri": "https://github.com/jdmsft/temp",
         "version": "4.0.5"
+    },
+    "customMessage": {
+        "type": "warning",
+        "content": "NEWS: MyCustomMessage",
+        "scope": "all"
     }
 }
