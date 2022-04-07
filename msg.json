@@ -1,0 +1,7 @@
+{
+  "content": "BREAKING NEWS from GitHub!",
+  "type": "warning",
+  "rule": {
+    "versionLessThan": "2.0.0"
+  }
+}
