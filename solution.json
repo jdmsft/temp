@@ -3,7 +3,8 @@
     "solution": {
         "name":"Solution Name",
         "uri": "https://github.com/jdmsft/temp",
-        "version": "4.0.5"
+        "version": "4.0.5",
+        "type": "azWorkbook"
     },
     "customMessage": {
         "type": "warning",
