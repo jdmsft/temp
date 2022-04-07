@@ -7,7 +7,7 @@
     },
     "customMessage": {
         "type": "warning",
-        "content": "NEWS: MyCustomMessage",
-        "scope": "all"
+        "content": "An important issue was detected in this version, please uptate!",
+        "scope": "earlierVersion"
     }
 }
