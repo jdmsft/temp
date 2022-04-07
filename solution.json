@@ -7,7 +7,7 @@
     },
     "customMessage": {
         "type": "warning",
-        "content": "MyCustomMessage",
+        "content": "NEWS: MyCustomMessage",
         "scope": "all"
     }
 }
